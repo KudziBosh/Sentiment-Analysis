@@ -1,2 +1,2 @@
-# Sentiment-Analysis
-Sentiment Analysis using the Python's Flask Framework and IBM Natural Language processing Libraries
+# coding-project-template
+This repo is for the practice project which is to be based on Embedded AI libraries. 
